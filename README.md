@@ -1,4 +1,3 @@
-# robocode_CPS
 # Wrecker
 Este é um robô desenvolvido para competir em batalhas do Robocode. Utiliza uma combinação de técnicas de evasão, mira e movimentação para vencer os adversários.
 
@@ -22,18 +21,6 @@ Este é um robô desenvolvido para competir em batalhas do Robocode. Utiliza uma
 2. Execute o Robocode e importe o robô compilado.
 3. Selecione o robô e inicie uma batalha.
 
-## Estratégia do Robô
-O robô utiliza uma estratégia de:
-- **Movimentação**: Evita balas inimigas com movimentação aleatória.
-- **Mira**: Utiliza algoritmos de previsão para acertar alvos em movimento.
-- **Evasão**: Detecta e evita zonas de alta densidade de fogo.
-
-## Arquitetura do Código
-- `NomeDoRobo.java`: Classe principal do robô.
-- `Movimentacao.java`: Lógica de movimentação.
-- `Mira.java`: Lógica de mira e disparo.
-- `Evasao.java`: Lógica de evasão.
-
 ## Contribuição
 1. Faça um fork deste repositório.
 2. Crie uma branch para a sua feature (`git checkout -b feature/nova-feature`).
@@ -41,7 +28,20 @@ O robô utiliza uma estratégia de:
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Crie um Pull Request.
 
+## Resumo do Wrecker
+O robô Wrecker é projetado para competições de Robocode, destacando-se por sua movimentação circular contínua para evitar previsibilidade e sua capacidade de ajustar dinamicamente velocidade e potência de tiro com base na distância do inimigo.
+Utiliza mira precisa e responde defensivamente a colisões, além de celebrar vitórias.
+
 ## Testes
 Para rodar testes, utilize a biblioteca [JUnit](https://junit.org/junit5/):
-```sh
-java -cp libs/robocode.jar:libs/junit5.jar org.junit.platform.console.ConsoleLauncher --scan-classpath
+
+      ```sh    
+     java -cp libs/robocode.jar:libs/junit5.jar org.junit.platform.console.ConsoleLauncher --scan-classpath
+    
+## Equipe
+
+Desenvolvedores da lógica embutida à inteligência do robô wrecker:
+- [João Carpim](https://github.com/joaocarpim)
+- [José Lisboa](https://github.com/proceed15)
+- [Luis Gabriel](https://github.com/luisgabriel)
+
