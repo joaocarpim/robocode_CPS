@@ -1,6 +1,15 @@
 # Wrecker
 Este é um robô desenvolvido para competir em batalhas do Robocode. Utiliza uma combinação de técnicas de evasão, mira e movimentação para vencer os adversários.
 
+### Wrecker em batalha
+
+<details>
+  <summary>📸</summary>
+  
+  ![Screen](wrecker.gif)
+
+</details>
+
 ## Pré-requisitos
 - Java 8 ou superior
 - Robocode 1.9.3.0 ou superior
