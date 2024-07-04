@@ -2,10 +2,9 @@
 Este é um robô desenvolvido para competir em batalhas do Robocode. Utiliza uma combinação de técnicas de evasão, mira e movimentação para vencer os adversários.
 
 ### Wrecker em batalha
-
 <details>
   <summary>📸</summary>
-  
+  Wrecker é o robo branco e vermelho
   <img src="wrecker.gif" alt="Screen" style="width: 70%; max-width: 200px;">
   
 </details>
