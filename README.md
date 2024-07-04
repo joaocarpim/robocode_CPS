@@ -6,9 +6,10 @@ Este é um robô desenvolvido para competir em batalhas do Robocode. Utiliza uma
 <details>
   <summary>📸</summary>
   
-  ![Screen](wrecker.gif)
-
+  <img src="wrecker.gif" alt="Screen" style="width: 70%; max-width: 200px;">
+  
 </details>
+
 
 ## Pré-requisitos
 - Java 8 ou superior
